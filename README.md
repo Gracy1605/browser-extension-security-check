@@ -1,51 +1,29 @@
- Identify and Remove Suspicious Browser Extensions
+# 🧠 Task 7: Identify and Remove Suspicious Browser Extensions
 
 ## 🎯 Objective
-Learn to identify and remove potentially harmful or unnecessary browser extensions to improve browser performance and security.
+To identify, review, and remove potentially harmful or unnecessary browser extensions that may affect browser performance or security.
 
----
+## 🧰 Tools Used
+- Google Chrome
+- Chrome Web Store / Extension Manager
 
-## 🛠 Tools Used
-- Google Chrome (or any preferred browser)
-- Chrome Web Store / Add-ons Manager
-
----
-
-## 🪜 Steps Followed
-1. Opened the browser’s extensions page using `chrome://extensions/`.
-2. Reviewed all installed extensions.
-3. Checked developer names, permissions, and reviews for authenticity.
-4. Verified each extension’s legitimacy online.
-5. Found no suspicious or harmful extensions.
-6. Restarted the browser and confirmed normal performance.
-7. Researched how malicious extensions can harm users.
-
----
-
-## 🧩 Extensions Installed
-| Extension Name | Developer | Status | Notes |
-|----------------|------------|---------|-------|
-| Google Docs Offline | Google LLC | Safe | Official Google extension for offline access |
-| McAfee® WebAdvisor | McAfee, LLC | Safe | Provides protection against malicious sites |
-
----
-
-## ⚠️ Browser Security Risks from Suspicious Extensions
-- **Data Theft:** Can steal browsing data, passwords, or form entries.  
-- **Ad Injection:** Adds unwanted pop-ups or redirects to ad pages.  
-- **Tracking:** Monitors user activity across websites.  
-- **Redirects:** Sends users to phishing or malicious sites.  
-- **Performance Issues:** Slows down browsing or causes crashes.  
-- **Unauthorized Access:** May modify or read all web data.
-
----
+## 🪜 Key Steps
+1. Opened the browser’s extensions page (`chrome://extensions/`).
+2. Reviewed installed extensions, checked developers and permissions.
+3. Verified authenticity through the Chrome Web Store.
+4. Researched common browser security risks caused by malicious extensions.
 
 ## ✅ Findings
-No suspicious extensions were found.  
-All installed extensions are safe and verified from trusted developers.  
-Browser performance remains smooth and secure.
+| Extension Name | Status | Developer | Notes |
+|----------------|---------|------------|-------|
+| Google Docs Offline | Safe | Google LLC | Official extension |
+| McAfee® WebAdvisor | Safe | McAfee, LLC | Protects from malicious websites |
 
----
+No suspicious extensions were found. All are trusted and verified.
 
-## 📚 Summary of Learning
-This task helped me understand how to review browser extensions, verify their authenticity, and identify security risks. Regularly checking extensions prevents malicious behavior and keeps the browser secure and efficient.
+## ⚠️ What I Learned
+- How to review browser extensions for authenticity and safety.  
+- Common risks like data theft, ads, or redirects caused by malicious extensions.  
+- Importance of regular browser maintenance for privacy and performance.
+
+
